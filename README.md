@@ -11,7 +11,6 @@ This project is a fun and educational game that can be easily customized and int
 - Randomly generated bubbles with numbers.
 - Countdown timer to create a sense of urgency.
 - Scoring system to track and display the player's score.
-- "New Game" button to restart the game after it's over.
 - Sound effects for scoring and game over events.
 
 ## Technologies Used
